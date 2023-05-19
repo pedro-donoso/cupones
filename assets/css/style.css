@@ -1,0 +1,43 @@
+/* TOTALES */
+body * {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+nav
+{
+  background: #28a745;
+}
+
+/* comentario */
+
+nav img {
+  width: 25%;
+  min-width: 80px;
+}
+
+.card{
+    width: 18rem;
+}
+
+
+#precios {
+  text-align: right;
+}
+
+#precio1  {
+  font-size: 12pt;
+}
+
+#precio2 {
+  font-size: 30pt;
+  color: #28a745;
+}
+
+/* pantallas */
+@media only screen and (max-width: 576px) {
+  .card {
+    margin: auto;
+  }
+}
