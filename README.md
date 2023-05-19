@@ -1,3 +1,1 @@
-# cupones
-
-### desafio cupon
+# https://pedro-donoso.github.io/cupones/
